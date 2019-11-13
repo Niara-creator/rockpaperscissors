@@ -11,5 +11,5 @@
 
 $('button').click(function(){
     var inputtext=$("#input").val();
-$("#userChoice").append(inputtext);
-    })
+    $("#userChoice").append(inputtext);
+})
